@@ -48,7 +48,7 @@ iframe#tela {
 
 }
 section#redes-sociais {
-    text-align: right;
+    text-align: center;
     
     
 
@@ -77,7 +77,7 @@ section#redes-sociais {
         color: white;
         text-align: center;
         font-size: 1em;
-        padding: 3px;
+        padding: 2px;
    }
    footer  a {
        color: white;
@@ -91,5 +91,6 @@ section#redes-sociais {
        color: cadetblue;
        
    }
+   
     
    
